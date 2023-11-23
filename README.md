@@ -5,5 +5,6 @@
 - 😄 Pronouns: She/Her
 - 👧 Laura's Mom
 - 👩‍💻 Developer at [Anjun Brasil](https://github.com/anjun-brasil "Anjun Brasil")
-- 💻 Back End 
+- 💻 Back End Developer
+
 
